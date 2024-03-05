@@ -1,0 +1,7 @@
+{
+  "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "discordChannel": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "wechatTarget": "xxxxxxxxxxxxxxxxxxxxxx",
+  "logWechatMsg": false,
+  "logDiscordMsg": false
+}
